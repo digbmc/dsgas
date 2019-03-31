@@ -29,8 +29,13 @@ April 4, 2019
 2. Open the document in atom and write content: use markdown syntax to create headings, text, and links or images. Save the document.
 4. **Add** your document to git's plate so it knows you've made changes (also referred to as "staging" your changes)
 5. **Commit** to the changes you've made (at least for now) and write a note about what you changed
-6. **Pull** in any new changes from the cloud-based or "remote" repository (always do this before you publish your changes)
-7. **Push** your changes to the remote repository
+6. **Pull** in any new changes from the cloud-based or "remote" repository (always do this before you publish your changes to a shared repo)
+7. **Push** your changes to the remote repository.
+8. Open the remote in your browser to see what happened.
 
 #### Collaborating
-1. Open the file [collaboration.md](/collaboration.md) in Atom. 
+1. **Pull** your teammates' changes and see what happens.
+2. Open the file [collaboration.md](/collaboration.md) in Atom, make some changes, and save the file.
+2. Create a new **branch** of the repository so you can make changes without interfering with anyone else's work
+3. **Add** your changes and **commit** them
+4. **Push** your changes to your personal **branch** (you don't need to pull because nobody else should be working on this branch)

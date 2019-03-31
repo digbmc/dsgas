@@ -39,3 +39,4 @@ April 4, 2019
 2. Create a new **branch** of the repository so your changes won't interfering with anyone else's work. **Checkout** your new branch (switch to it).
 3. **Add** your changes and **commit** them
 4. **Push** your changes to your personal **branch** (you don't need to pull because nobody else should be working on this branch)
+6. Once you feel good about the changes you've made on your branch, you can try to **merge** it with the master branch.

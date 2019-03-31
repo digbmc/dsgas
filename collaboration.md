@@ -8,6 +8,8 @@ Well, that depends on your definition of easy -- [xkcd has thoughts about this](
 
 ## My ideas
 
+- But sometimes there could be conflicts in the same file.
+
 ## Your ideas
 
 ## Another person's ideas

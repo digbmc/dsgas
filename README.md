@@ -37,7 +37,8 @@ April 4, 2019
 1. **Pull** your teammates' changes and see what happens.
 2. Open the file [collaboration.md](/collaboration.md) in Atom, make some changes, and save the file.
 3. **Add** your changes and **commit** them
-2. Create a new **branch** of the repository so your changes won't interfering with anyone else's work. **Checkout** your new branch (switch to it).
+2. Create a new **branch** of the repository so your changes won't interfering with anyone else's work.
+3. **Checkout** your new branch (switch to it).
 4. **Push** your changes to your personal **branch** (you don't need to pull because nobody else should be working on this branch)
     git push origin [yourbranch]
 5. Look at the remote in the browser and see if you can figure out where your changes went.  

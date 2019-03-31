@@ -8,9 +8,11 @@ Well, that depends on your definition of easy -- [xkcd has thoughts about this](
 
 ## My thoughts
 
-You have to be careful when multiple people are working on the same thing, but git makes it possible to figure out the process. 
+You have to be careful when multiple people are working on the same thing, but git makes it possible to figure out the process.
 
 ## Your ideas
+
+Especially until you become conceptually comfortable with **remote** and **local**, **upstream** and downstream.
 
 ## Another person's ideas
 

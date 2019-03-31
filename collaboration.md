@@ -6,7 +6,9 @@ title: "Collaborative Authorship"
 
 Well, that depends on your definition of easy -- [xkcd has thoughts about this](https://xkcd.com/1597/).
 
-## My ideas
+## My thoughts
+
+You have to be careful when multiple people are working on the same thing, but git makes it possible to figure out the process. 
 
 ## Your ideas
 

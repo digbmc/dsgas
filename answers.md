@@ -72,5 +72,7 @@ Look at the remote in the browser and see if you can figure out where your chang
 
 Once you feel good about the changes you've made on your branch, you can try to **merge** it with the master branch.
 
-   git checkout master
-   git merge newbranch
+    git checkout master
+    git merge newbranch
+
+Nice job!

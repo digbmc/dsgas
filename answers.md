@@ -9,13 +9,15 @@
 
 3. Slack your username to Alice so she can add you to the DSGAs team
 
-4. **Config**-ure your name and user account using the command line
+**Config**-ure your name and user account using the command line
 
   git config --global user.name "[firstname lastname]"
 
-5. **Clone** this repository and open it in atom
+**Clone** this repository and open it in atom
 
-  git clone https://github.com/digbmc/dsgas.git
+'''
+git clone https://github.com/digbmc/dsgas.git
+'''
 
 ### Publishing
 1. Create a new markdown document in your local copy of the repository.

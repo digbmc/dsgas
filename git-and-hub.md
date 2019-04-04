@@ -50,8 +50,11 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 ## Additional resources
 
 [DHRI Git Tutorial](https://github.com/DHRI-Curriculum/git)
+
 [Overview of Atom features for git integration](https://flight-manual.atom.io/using-atom/sections/version-control-in-atom/)
+
 [Programming Historian tutorial for Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+
 [Prog Hist Pandoc Tutorial](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
 NB: you don't need the command line to contribute to github projects: [GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop) is a popular GUI.

@@ -1,6 +1,6 @@
 # Answer key
 
-## Tasks
+## Practice
 
 ### Setting up
 
@@ -12,9 +12,6 @@
 
     git clone https://github.com/digbmc/dsgas.git
 
-
-### Publishing
-
 Create a new markdown document in your local copy of the repository.
 
     touch myname.md
@@ -22,6 +19,12 @@ Create a new markdown document in your local copy of the repository.
 Open the document in atom and write content: use markdown syntax to create headings, text, and links or images. Save the document.
 
     atom myname.md
+
+### Publishing
+
+Check the **status** of your local repository according to git.
+
+    git status
 
 **Add** your document to git's plate so it knows you've made changes (also referred to as "staging" your changes)
 

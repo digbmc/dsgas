@@ -16,10 +16,10 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 
 ### Setting up
 
-1. Once you've made sure git is installed and set up a user account, you'll want to **Config**-ure your name and user account using the command line
+1. Once you've made sure git is installed and set up a user account, you'll want to **Config**-ure your name and user account using the command line.
 2. **Clone** this repository and open it in atom
 3. Create a new markdown document in your local repository.
-4. Open the document in atom and write content using markdown syntax.
+4. Open the document in atom and write content using markdown syntax (use the markdown preview feature)
 
 ### Publishing
 
@@ -33,8 +33,13 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 
 ### Collaborating
 
-1. **Pull** your teammates' changes and see what happens.
-2. Open the file [collaboration.md](/collaboration.md) in Atom, make some changes, and save the file.
+1. **Pull** your teammates' changes. Look at the folder to see what happened.
+2. Choose a new file added by a teammate (make sure nobody else is editing it  for now). Open it in Atom and make some changes to it.
+3. Check the **status** of your local repo.
+3. **Add** your changes.
+4. **Commit** your changes with a message.
+4. **Pull** any new changes, then **push** your changes to the remote repository.
+2. Now things will get more complicated. Open the file [collaboration.md](/collaboration.md) in Atom, make some changes, and save the file.
 3. **Add** your changes and **commit** them
 2. Create a new **branch** of the repository so your changes won't interfering with anyone else's work.
 3. **Checkout** your new branch (switch to it).
@@ -42,6 +47,11 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 5. Look at the remote in the browser and see if you can figure out where your changes went.  
 6. Once you feel good about the changes you've made on your branch, you can try to **merge** it with the master branch.
 
-## Further resources
+## Additional resources
 
 [DHRI Git Tutorial](https://github.com/DHRI-Curriculum/git)
+[Overview of Atom features for git integration](https://flight-manual.atom.io/using-atom/sections/version-control-in-atom/)
+[Programming Historian tutorial for Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+[Prog Hist Pandoc Tutorial](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+
+NB: you don't need the command line to contribute to github projects: [GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop) is a popular GUI.

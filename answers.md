@@ -46,9 +46,21 @@ Open the remote in your browser to see what happened.
 
 ### Collaborating
 
-**Pull** your teammates' changes and see what happens.
+**Pull** your teammates' changes. Look at the folder to see what happened.
 
     git pull
+
+Choose a new file added by a teammate. Open it in Atom and make some changes to it.
+
+    atom newfile.md
+
+Check your **status**, **add** your changes, **commit** them with a message, **pull** others' new changes, then **push** your changes to the remote repo.
+
+    git status
+    git add --all
+    git commit -m "commenting"
+    git pull
+    git push origin master
 
 Open the file [collaboration.md](/collaboration.md) in Atom, make some changes, and save the file.
 

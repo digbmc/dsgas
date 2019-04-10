@@ -13,6 +13,7 @@ You have to be careful when multiple people are working on the same thing, but g
 But sometimes there could be conflicts in the same file.
 
 ## Your ideas
+I think this is going to be tricky, but I am excited to try! 
 
 Especially until you become conceptually comfortable with versioning.
 

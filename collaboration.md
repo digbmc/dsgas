@@ -18,6 +18,7 @@ I think this is going to be tricky, but I am excited to try!
 Especially until you become conceptually comfortable with versioning.
 
 ## Another person's ideas
+Do you mean multiple people working on the same time on the same time? Would there be publishing conflicts?
 
 ## And Another
 

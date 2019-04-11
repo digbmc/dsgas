@@ -55,6 +55,7 @@ Tools
 ####kale tumeric lentil soup
 ####green Shakshouka
 ####steamed eggs and kimchi
+####[curried carrot soup](https://www.marthastewart.com/336733/curried-carrot-soup)
 
 ##The Real Procrastinator
 ![Yusi](dsgas/images/yusi-is-tired.jpg)

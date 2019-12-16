@@ -57,15 +57,17 @@ Tools
 ####steamed eggs and kimchi
 #### [curried carrot soup](https://www.marthastewart.com/336733/curried-carrot-soup)
 
-##The Real Procrastinator
-![Yusi](dsgas/images/yusi-is-tired.jpg)
-###Yusi and Production Lines
-####Research and Work
-[x]dsgas weekly updates
-[ ]translate hippocratics corpus - barrenness
-[ ]gsem paper outline send to Shi Jie
-[x]tax
-[x]outline for classical bodies
+## The Real Procrastinator
+
+![Yusi](/images/yusi-is-tired.jpg)
+
+### Yusi and Production Lines
+#### Research and Work
+[x] dsgas weekly updates
+[ ] translate hippocratics corpus - barrenness
+[ ] gsem paper outline send to Shi Jie
+[x] tax
+[x] outline for classical bodies
 
 ####Life Support
 [x]buy grocery

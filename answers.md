@@ -62,6 +62,14 @@ Check your **status**, **add** your changes, **commit** them with a message, **p
     git pull
     git push origin master
 
+Create a new **branch** of the repository so your changes won't interfering with anyone else's work.
+
+        git branch newbranch
+
+**Checkout** your new branch (switch to it).
+
+        git checkout newbranch
+
 Open the file [collaboration.md](/collaboration.md) in Atom, make some changes, and save the file.
 
     atom collaboration.md
@@ -71,13 +79,6 @@ Open the file [collaboration.md](/collaboration.md) in Atom, make some changes, 
     git add --all
     git commit -m "mychanges"
 
-Create a new **branch** of the repository so your changes won't interfering with anyone else's work.
-
-    git branch newbranch
-
-**Checkout** your new branch (switch to it).
-
-    git checkout newbranch
 
 **Push** your changes to your personal **branch** (you don't need to pull because nobody else should be working on this branch)
 
